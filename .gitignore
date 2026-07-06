@@ -1,2 +1,15 @@
+# Raw data
 archive/
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ubuntu / Nautilus
+.directory
+
 
