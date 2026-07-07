@@ -47,8 +47,6 @@ animal-shelter-stay-analysis/ ├── archive/ # Raw dataset files (not tracke
 
 ## Key Findings
 
-*(Füge hier deine wichtigsten Erkenntnisse aus dem Notebook ein, z.B.:)*
-
 - **High adoption rate**: Majority of dogs are adopted rather than euthanized
 - **Intake condition**: Animals in "Normal" condition move through faster than those marked "Injured" or "Sick"
 - **Breed diversity**: Over 2,500 unique breed combinations identified
