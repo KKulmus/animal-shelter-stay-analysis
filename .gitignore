@@ -13,3 +13,5 @@ __pycache__/
 .directory
 
 
+01_data_preparation.py
+01_data_preparation.txt
